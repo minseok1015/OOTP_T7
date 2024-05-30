@@ -15,6 +15,6 @@ public class Main {
 
         frontController.setItemMode(itemPool.getController("CHECK"));
         System.out.println(frontController.getItemServiceController().process(2,6));
-
+        //test Auto build
     }
 }
